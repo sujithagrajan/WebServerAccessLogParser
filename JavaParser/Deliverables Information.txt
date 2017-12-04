@@ -1,0 +1,26 @@
+Name : Sujitha Govindharajan
+
+Project Title: Java Parser for Web Server Access Log
+
+Deliverables
+------------
+
+(1) Java program that can be run from command line
+	
+    java -cp "parser.jar" com.ef.Parser --accesslog=/path/to/file --startDate=2017-01-01.13:00:00 --duration=hourly --threshold=100 
+
+File name: parser.jar,access.log
+
+(2) Source Code for the Java program
+
+File name: Parser.java
+
+(3) MySQL schema used for the log data
+
+File name: MySQLSchema.SQL
+
+MySQL username:root, password:tiger
+
+(4) SQL queries for SQL test
+
+File name:SQL_Queries.txt
